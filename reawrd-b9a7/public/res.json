@@ -1,0 +1,100 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Grilled Lemon Chicken",
+        "short_description": "A delicious grilled chicken marinated in a lemon herb sauce.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml lemon juice",
+            "3 garlic cloves",
+            "30 g fresh thyme",
+            "50 ml olive oil",
+            "Salt and pepper"
+        ],
+        "preparing_time": "30 ",
+        "calories": "320 ",
+        "recipe_image": "https://www.slenderkitchen.com/sites/default/files/styles/gsd-4x3/public/recipe_images/grilled-lemon-dijon-chicken-thighs-2.jpg"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Pasta Alfredo",
+        "short_description": "Creamy Alfredo pasta with rich flavors of Parmesan cheese.",
+        "ingredients": [
+            "400 g fettuccine",
+            "200 ml heavy cream",
+            "150 g Parmesan cheese",
+            "3 garlic cloves",
+            "50 g butter",
+            "Salt and pepper"
+        ],
+        "preparing_time": "25 ",
+        "calories": "600 ",
+        "recipe_image": "https://assets.epicurious.com/photos/5988e3458e3ab375fe3c0caf/3:2/w_5409,h_3606,c_limit/How-to-Make-Chicken-Alfredo-Pasta-hero-02082017.jpg"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Vegan Buddha Bowl",
+        "short_description": "A healthy and colorful bowl packed with veggies and quinoa.",
+        "ingredients": [
+            "200 g quinoa",
+            "100 g chickpeas",
+            "50 g spinach",
+            "1 avocado",
+            "100 g sweet potato",
+            "30 ml olive oil"
+        ],
+        "preparing_time": "20 in",
+        "calories": "450 ",
+        "recipe_image": "https://thetastyk.com/wp-content/uploads/2016/09/Salad-Bowl-6-1.jpg"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Beef Stir-fry",
+        "short_description": "A quick stir-fry with tender beef strips and fresh vegetables.",
+        "ingredients": [
+            "300 g beef strips",
+            "150 g broccoli",
+            "120 ml soy sauce",
+            "50 g bell pepper",
+            "1 onion",
+            "2 garlic cloves",
+            "30 ml sesame oil"
+        ],
+        "preparing_time": "15 ",
+        "calories": "350 ",
+        "recipe_image": "https://chefjackovens.com/wp-content/uploads/2021/11/My-Post-11.jpg"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Classic Margherita Pizza",
+        "short_description": "A classic pizza with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "200 g pizza dough",
+            "150 g mozzarella cheese",
+            "100 g tomato sauce",
+            "50 g fresh basil leaves",
+            "10 ml olive oil",
+            "Salt and pepper"
+        ],
+        "preparing_time": "20 ",
+        "calories": "500 ",
+        "recipe_image": "https://preppykitchen.com/wp-content/uploads/2024/01/Margherita-Pizza-Recipe-Card.jpg"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Blueberry Pancakes",
+        "short_description": "Fluffy pancakes with fresh blueberries and a hint of vanilla.",
+        "ingredients": [
+            "200 g all-purpose flour",
+            "50 g sugar",
+            "150 ml milk",
+            "2 eggs",
+            "100 g blueberries",
+            "30 g butter",
+            "1 tsp vanilla extract"
+        ],
+        "preparing_time": "15 ",
+        "calories": "300 ",
+        "recipe_image": "https://www.onceuponachef.com/images/2014/08/Blueberry-Buttermilk-Pancakes-with-Blueberry-Maple-Syrup1-1200x803.jpg"
+    }
+]

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recipe Calories</title>
+  <script src="https://kit.fontawesome.com/02759f30c2.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <header>
+    <!-- ----------NAv Bar------------ -->
+    <div class="navbar lg:px-10 bg-base-100 py-4">
+      <div class="flex-1">
+        <a class="btn btn-ghost text-xl lg:text-3xl">Recipe Calories</a>
+      </div>
+      <div class="flex-none gap-2">
+        <div class="form-control">
+          <input type="text" placeholder="Search" class="input input-bordered md:w-auto" />
+        </div>
+        <div class="dropdown dropdown-end">
+          <div tabindex="0" role="button" class="btn btn-ghost btn-circle avatar">
+            <div class="w-10 rounded-full">
+            <img src="https://i.ibb.co.com/1vXPwLG/1675254905006.jpg" alt="1675254905006" border="0"><br /><br />
+            </div>
+          </div>
+          <ul tabindex="0" class="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+            <li>
+              <a class="justify-between">
+                Profile
+                <span class="badge">New</span>
+              </a>
+            </li>
+            <li><a>Settings</a></li>
+            <li><a>Logout</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- ----------------Banner----------- -->
+    <div class="l mx-auto  lg:w-[85%] my-8">
+      <div class="hero min-h-screen"
+        style="background-image: url(https://petitechefs.com/wp-content/uploads/2023/11/Safe-Cooking-Practices-1024x574.jpg); border-radius: 30px;">
+        <div class="hero-overlay bg-opacity-60 rounded-[30px]"></div>
+        <div class="hero-content text-neutral-content text-center">
+          <div class="w-[85%]">
+            <h1 class="mb-5 text-3xl lg:text-5xl font-bold">Discover an exceptional cooking
+              class tailored for you!</h1>
+            <p class="mb-5 lg:px-[20%]">
+              Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding
+              problems to become an exceptionally well world-class Programmer.
+            </p>
+            <button class="btn rounded-full btn-success font-bold font-serif text-white">Explore Now</button>
+            <button class="btn btn-outline rounded-full font-bold font-serif text-white">Our Feedback</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </header>
+
+  <main>
+    <div class="text-center pb-10">
+      <h1 class="font-bold text-xl lg:text-3xl lg:py-5 py-2">Our Recipes</h1>
+      <p class="font-semibold text-xs lg:text-base text-gray-500">
+        Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus vulputate netus pharetra rhoncus. Eget <br>
+        urna volutpat curabitur elementum mauris aenean neque.
+      </p>
+    </div>
+  </main>
+
+
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>
